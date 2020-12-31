@@ -6,10 +6,10 @@ My prefered prettier settings.
 
 Install `npm i -D @jamescoyle/prettier-config` and then add the following to your package.json:
 
-```json
+```jsonc
 {
-  ...
+  // ...
   "prettier": "@jamescoyle/prettier-config",  
-  ...
+  // ...
 }
 ```
