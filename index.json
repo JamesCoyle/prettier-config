@@ -8,5 +8,6 @@
 	"useTabs": true,
 	"proseWrap": "never",
 	"arrowParens": "always",
-	"htmlWhitespaceSensitivity": "strict"
+	"htmlWhitespaceSensitivity": "strict",
+	"svelteSortOrder" : "options-scripts-styles-markup"
 }
